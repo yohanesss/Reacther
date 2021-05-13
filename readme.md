@@ -1,3 +1,3 @@
 # Reacther
 
-Check weather app using axion api
+Check weather app using axios api
